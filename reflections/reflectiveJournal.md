@@ -24,3 +24,5 @@ A dictionary defines a 'git' as "an unpleasant or contemptible person".
 or "Git is software for tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development."
 
 ### What is GitHub?
+GitHub is a website and cloud-based service that helps developers store and manage their code, as well as track and control changes to their code. A developer can duplicate part of the source code (called the repository). The developer can then safely make changes to that part of the code without affecting the rest of the project.
+# Hello, Markdown
