@@ -15,9 +15,12 @@ Programming conventions - common rules, guidelines and approaches for programmin
 
 
 ### Can you share your favourite Scratch project that you have made or remixed?
+Yes i can.
 
 ## Week 2:
 
 ### What is git?
+A dictionary defines a 'git' as "an unpleasant or contemptible person".
+or "Git is software for tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development."
 
 ### What is GitHub?
