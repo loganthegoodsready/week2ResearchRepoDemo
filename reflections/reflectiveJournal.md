@@ -25,5 +25,12 @@ or "Git is software for tracking changes in any set of files, usually used for c
 
 ### What is GitHub?
 GitHub is a website and cloud-based service that helps developers store and manage their code, as well as track and control changes to their code. A developer can duplicate part of the source code (called the repository). The developer can then safely make changes to that part of the code without affecting the rest of the project.
-Alt-Hello, Markdown
 
+# Hello, Markdown
+**this should be in bold**, _and this should be in italics?._ **_And this in bold italics_** ~~Cross this out~~
+* Unordered sublist
++ Using any symbol 
+- then press enter to continue another. 
+- like this
+
+1. But how does 
