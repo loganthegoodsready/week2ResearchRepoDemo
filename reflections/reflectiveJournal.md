@@ -33,4 +33,32 @@ GitHub is a website and cloud-based service that helps developers store and mana
 - then press enter to continue another. 
 - like this
 
-1. But how does 
+1. But how do you get a middle dot????
+
+##Week 3:
+
+#Lab task 1:
+age = float(input("How old is your dog in human years? "))
+if age == 2:
+    print("Your dog is", 10.5, "years old")
+elif age > 2:
+    print("Your dog is", (age-2)*4 + 21, "years old")
+elif age <= 1:
+    print("your dog is a puppy")
+elif age >1 and age <2:
+    print("your dog is an adolescent")
+**#else statement N/A**
+**I'd like to figure out a differnt way to write this code if possible**
+
+#Lab task 2:
+month_31 =['January','March', 'May', 'July', 'August', 'October', 'December']
+month_30 =['April', 'June', 'September', 'November']
+month_28_29 =['February']
+birth_month= input("What is your birth month? ")
+if birth_month in month_31:
+    print("There are 31 days in",birth_month)
+elif birth_month in month_30:
+    print("There are 30 days in",birth_month)
+elif birth_month in month_28_29:
+    print("There are 28 days in",birth_month+", or 29 days on leap year")
+**originally I wrote this code using the 'or' operater but it looked far too long and messy. After some research I discovered i could use a 'list' function and the 'in' operator to make it shorter and more comprehensive. 
