@@ -37,7 +37,7 @@ GitHub is a website and cloud-based service that helps developers store and mana
 
 ## Week 3:
 
-#Lab task 1:
+# Lab task 1:
 age = float(input("How old is your dog in human years? "))
 if age == 2:
     print("Your dog is", 10.5, "years old")
