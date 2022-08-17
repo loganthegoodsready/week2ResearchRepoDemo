@@ -61,4 +61,4 @@ elif birth_month in month_30:
     print("There are 30 days in",birth_month)
 elif birth_month in month_28_29:
     print("There are 28 days in",birth_month+", or 29 days on leap year")
-**originally I wrote this code using the 'or' operater but it looked far too long and messy. After some research I discovered i could use a 'list' function and the 'in' operator to make it shorter and more comprehensive. 
+**#originally I wrote this code using the 'or' operater but it looked far too long and messy. After some research I discovered i could use a 'list' function and the 'in' operator to make it shorter and more comprehensive. 
