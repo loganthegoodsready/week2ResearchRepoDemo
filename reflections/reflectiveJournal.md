@@ -35,7 +35,7 @@ GitHub is a website and cloud-based service that helps developers store and mana
 
 1. But how do you get a middle dot????
 
-##Week 3:
+## Week 3:
 
 #Lab task 1:
 age = float(input("How old is your dog in human years? "))
@@ -50,7 +50,7 @@ elif age >1 and age <2:
 **#else statement N/A**
 **I'd like to figure out a differnt way to write this code if possible**
 
-#Lab task 2:
+# Lab task 2:
 month_31 =['January','March', 'May', 'July', 'August', 'October', 'December']
 month_30 =['April', 'June', 'September', 'November']
 month_28_29 =['February']
@@ -62,3 +62,27 @@ elif birth_month in month_30:
 elif birth_month in month_28_29:
     print("There are 28 days in",birth_month+", or 29 days on leap year")
 **#originally I wrote this code using the 'or' operater but it looked far too long and messy. After some research I discovered i could use a 'list' function and the 'in' operator to make it shorter and more comprehensive. 
+
+# Lab task 3:
+cat = input("What is your name \n")
+print("your name is a", type(cat))
+**# I'm not entirely sure how to do this one. 
+
+# Lab task 4:
+num_1= int(input("Enter first number: "))
+num_2= int(input("Enter second number "))
+if num_1 % 2 ==0 or num_1 % 3 == 0 and num_2 % 2 == 0 or num_2 % 3 ==0:
+    print(num_1 * num_2 )
+**# writes thoughts here.
+
+# Lab task 5:
+temp = input("Enter '1' to convert celsius to fahrenheit\nEnter '2' to convert fahrenheit to celsius ")
+if "1" in temp:
+    celsius = float(input("Enter temp in celsius: "))
+    fahrenheit = celsius*1.8+32
+    print(celsius, "celsius is equivalent to", fahrenheit, "fahrenheit")
+elif "2" in temp:
+    fahrenheit = float(input("Enter temp in fahrenheit: "))
+    celsius = ((fahrenheit - 32) *5 / 9)
+    print(fahrenheit, "fahrenheit is equivalent to", celsius, "celsius")
+**# This one im stuck on. "enter 1 for, enter 2 for, and enter 3 for" HOW? 
