@@ -86,3 +86,12 @@ elif "2" in temp:
     celsius = ((fahrenheit - 32) *5 / 9)
     print(fahrenheit, "fahrenheit is equivalent to", celsius, "celsius")
 **# This one im stuck on. "enter 1 for, enter 2 for, and enter 3 for" HOW? 
+
+# Lab task 6:
+**# I'll get back to this one. too many convervsions. maybe there's a built in module to do it.
+
+# Lab task 7:
+x = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+print(sum(x))
+print(sum(x) / 10)
+**# seems easy enough, although i will forget it.
