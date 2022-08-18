@@ -109,3 +109,8 @@ for y in range(1,13):
 9 x tables   10 x tables   11 x tables   12 x tables
 
 **# ??? Need to find out
+
+## Week 4
+
+** What is a graph?
+
