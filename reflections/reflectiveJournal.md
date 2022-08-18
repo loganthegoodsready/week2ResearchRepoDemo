@@ -95,3 +95,17 @@ x = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 print(sum(x))
 print(sum(x) / 10)
 **# seems easy enough, although i will forget it.
+
+# Lab task 8:
+num = 1
+for y in range(1,13):
+    print(num,"x", y, "=", num*y)
+**# How to print them in a grid like:
+
+1 x tables   2 x tables   3 x tables   4 x tables
+
+5 x tables   6 x tables   7 x tables   8 x tables
+
+9 x tables   10 x tables   11 x tables   12 x tables
+
+**# ??? Need to find out
