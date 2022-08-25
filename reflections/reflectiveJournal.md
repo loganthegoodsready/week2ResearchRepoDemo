@@ -113,4 +113,8 @@ for y in range(1,13):
 ## Week 4
 
 ** What is a graph?
+Nodes with lines connecting them...
+
+## week 5
+Agile. We need to experience it in order to learn what it is. Let's see how this goes. 
 
