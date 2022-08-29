@@ -35,7 +35,7 @@ GitHub is a website and cloud-based service that helps developers store and mana
 - then press enter to continue another. 
 - like this
 
-1. But how do you get a middle dot????
+1. But how do you get a middle dot???
 
 ## Week 3:
 
@@ -52,6 +52,7 @@ elif age >1 and age <2:
 
 ### else statement N/A
 ~~I'd like to figure out a differnt way to write this code if possible~~
+**_this seems like the best way to write this code
 
 # Lab task 2:
 month_31 =['January','March', 'May', 'July', 'August', 'October', 'December']
