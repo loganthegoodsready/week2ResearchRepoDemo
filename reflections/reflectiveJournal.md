@@ -12,6 +12,7 @@ A visual programming language is any programming language that lets users create
 "Programming is simply a set of instructions to tell a computer how to perform a particular task". Programming languges are used as the "set of instructions", and there are many languages that have their own "syntax", but they all share the same purpose. There are 'low level' and 'high level' languages, the former being closer "machine code"  which the computer for can process directly (Computers understand 0's and 1's - binary - exclusively), and the latter being closer to noraml "human" language. Programming languages are 'compiled' and/or 'interpreted' in order to be translated into machine code.
 Programming conventions - common rules, guidelines and approaches for programming languages - are the begining of the "programming principles" I'm becoming familiar with. 'Standard libraries' which defines the built-in functions and modules for a particular language are an important aspect of high level languages. "Style guides", seem to be synonymous with "syntax" so I may need to follow up on that if it's important. Variables are place holders for information, and each varibale stores just one piece of information. They store data types which can be numeric, text (strings) or booleans (True or False values). 
  "A flowchart is a simple diagram that illustrates the stages or steps the computer must complete to solve the problem". These visual representations of code are easier to grasp than normal written code. Scratch is similar to a flow chart in many ways. seeing the visual elements of flow charts such as sequence, condition and itteration, make 'control flow' concepts like "while loops" in 'Python'(or any other language) easier to understand. 
+ K.I.S.S - Short, concise and coherent code is optimal as it's quicker to write and read. "code is read more than it's written"- Said many people.
 
 
 ### Can you share your favourite Scratch project that you have made or remixed?
@@ -48,8 +49,8 @@ elif age <= 1:
     print("your dog is a puppy")
 elif age >1 and age <2:
     print("your dog is an adolescent")
-**#else statement N/A**
-**I'd like to figure out a differnt way to write this code if possible**
+**#else statement N/A
+~~I'd like to figure out a differnt way to write this code if possible
 
 # Lab task 2:
 month_31 =['January','March', 'May', 'July', 'August', 'October', 'December']
@@ -67,14 +68,14 @@ elif birth_month in month_28_29:
 # Lab task 3:
 cat = input("What is your name \n")
 print("your name is a", type(cat))
-**# I'm not entirely sure how to do this one. 
+**# I'm not entirely sure how to do this one, but outputting the class type of the input seemed to be the closest option I could think of. 
 
 # Lab task 4:
 num_1= int(input("Enter first number: "))
 num_2= int(input("Enter second number "))
 if num_1 % 2 ==0 or num_1 % 3 == 0 and num_2 % 2 == 0 or num_2 % 3 ==0:
     print(num_1 * num_2 )
-**# writes thoughts here.
+**# Nice and easy :)
 
 # Lab task 5:
 temp = input("Enter '1' to convert celsius to fahrenheit\nEnter '2' to convert fahrenheit to celsius ")
@@ -95,7 +96,7 @@ elif "2" in temp:
 x = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 print(sum(x))
 print(sum(x) / 10)
-**# seems easy enough, although i will forget it.
+**# seems easy enough, although i will forget it if I don't practice.
 
 # Lab task 8:
 num = 1
@@ -109,12 +110,13 @@ for y in range(1,13):
 
 9 x tables   10 x tables   11 x tables   12 x tables
 
-**# ??? Need to find out
+**# ??? Need to find out how to do this. Hopefully the answer will come apparent to me as I learn more python. 
 
 ## Week 4
 
 ** What is a graph?
 Nodes with lines connecting them...
+
 Reflective questions: How did you feel as a subject of a video? Did you notice your ego? How are we evolving with this device? How could we draw this activity? Did you feel more attachment to the phone than to your image?
 ** 
 
