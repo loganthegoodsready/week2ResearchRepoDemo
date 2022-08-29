@@ -49,7 +49,8 @@ elif age <= 1:
     print("your dog is a puppy")
 elif age >1 and age <2:
     print("your dog is an adolescent")
-**#else statement N/A
+
+# else statement N/A
 ~~I'd like to figure out a differnt way to write this code if possible
 
 # Lab task 2:
@@ -63,19 +64,22 @@ elif birth_month in month_30:
     print("There are 30 days in",birth_month)
 elif birth_month in month_28_29:
     print("There are 28 days in",birth_month+", or 29 days on leap year")
-**#originally I wrote this code using the 'or' operater but it looked far too long and messy. After some research I discovered i could use a 'list' function and the 'in' operator to make it shorter and more comprehensive. 
+
+# originally I wrote this code using the 'or' operater but it looked far too long and messy. After some research I discovered i could use a 'list' function and the 'in' operator to make it shorter and more comprehensive. 
 
 # Lab task 3:
 cat = input("What is your name \n")
 print("your name is a", type(cat))
-**# I'm not entirely sure how to do this one, but outputting the class type of the input seemed to be the closest option I could think of. 
+
+# I'm not entirely sure how to do this one, but outputting the class type of the input seemed to be the closest option I could think of. 
 
 # Lab task 4:
 num_1= int(input("Enter first number: "))
 num_2= int(input("Enter second number "))
 if num_1 % 2 ==0 or num_1 % 3 == 0 and num_2 % 2 == 0 or num_2 % 3 ==0:
     print(num_1 * num_2 )
-**# Nice and easy :)
+
+# Nice and easy :)
 
 # Lab task 5:
 temp = input("Enter '1' to convert celsius to fahrenheit\nEnter '2' to convert fahrenheit to celsius ")
@@ -87,10 +91,11 @@ elif "2" in temp:
     fahrenheit = float(input("Enter temp in fahrenheit: "))
     celsius = ((fahrenheit - 32) *5 / 9)
     print(fahrenheit, "fahrenheit is equivalent to", celsius, "celsius")
-**# This one im stuck on. "enter 1 for, enter 2 for, and enter 3 for" HOW? 
+
+# This one im stuck on. "enter 1 for, enter 2 for, and enter 3 for" HOW? 
 
 # Lab task 6:
-**# I'll get back to this one. too many convervsions. maybe there's a built in module to do it.
+# I'll get back to this one. too many convervsions. maybe there's a built in module to do it.
 
 # Lab task 7:
 x = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
@@ -102,7 +107,8 @@ print(sum(x) / 10)
 num = 1
 for y in range(1,13):
     print(num,"x", y, "=", num*y)
-**# How to print them in a grid like:
+
+# How to print them in a grid like:
 
 1 x tables   2 x tables   3 x tables   4 x tables
 
@@ -110,7 +116,7 @@ for y in range(1,13):
 
 9 x tables   10 x tables   11 x tables   12 x tables
 
-**# ??? Need to find out how to do this. Hopefully the answer will come apparent to me as I learn more python. 
+# ??? Need to find out how to do this. Hopefully the answer will come apparent to me as I learn more python. 
 
 ## Week 4
 
