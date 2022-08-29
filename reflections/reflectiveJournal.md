@@ -52,7 +52,7 @@ elif age >1 and age <2:
 
 ### else statement N/A
 ~~I'd like to figure out a differnt way to write this code if possible~~
-**_this seems like the best way to write this code**_
+**_this seems like the best way to write this code_**
 
 # Lab task 2:
 month_31 =['January','March', 'May', 'July', 'August', 'October', 'December']
