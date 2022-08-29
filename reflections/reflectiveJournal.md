@@ -17,7 +17,7 @@ Programming conventions - common rules, guidelines and approaches for programmin
 
 ### Can you share your favourite Scratch project that you have made or remixed?
 Yes i can.
-## Click [Here](https://scratch.mit.edu/projects/718450845) to a play a game about a crab on drugs.
+### Click [Here](https://scratch.mit.edu/projects/718450845) to a play a game about a crab on drugs.
 
 ## Week 2:
 
@@ -51,7 +51,7 @@ elif age >1 and age <2:
     print("your dog is an adolescent")
 
 ### else statement N/A
-~~I'd like to figure out a differnt way to write this code if possible
+~~I'd like to figure out a differnt way to write this code if possible~~
 
 # Lab task 2:
 month_31 =['January','March', 'May', 'July', 'August', 'October', 'December']
@@ -134,9 +134,10 @@ Reflect on the exercise of building he tower and how it relates to Agile.
 
 
 
-#### Reminder prompts
+#### Promptsto use...
 
 ### Did you remember to take regular breaks away from your screen during this week? How often? Did you stretch your body?
+I've been try to maake sure I take a break atleast every hour, even if im confused about something and I know i'll likely spend my break time ruminating about my confusion. I have to make sure I take breaks so my mind stays clear and my body doesn't turn to stone. 
 
 ### What is Timeboxing? Have you heard of it before? Will you use it?
 
@@ -193,7 +194,6 @@ Reflect on the exercise of building he tower and how it relates to Agile.
 
 ### What is conscious listening?
 
-### What is a variable?
 
 ### What programming languages are you interested in learning? Why?
 
