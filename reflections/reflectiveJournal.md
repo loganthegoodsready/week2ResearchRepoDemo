@@ -131,20 +131,31 @@ Reflective questions: How did you feel as a subject of a video? Did you notice y
 
 # week 5
 Agile. We aregoing to experience it in order to learn what it is.
-The Agile model is the most widely used devopment methodology in in the tech space. It's a set of principles and guidlines used to execute a project. 
+The Agile model is the most widely used devopment methodology in in the tech space. It's a set of principles and guidlines used to execute a project.
+
+Them main for values of Agile are:
+- Individuals and interactions over processes and tools
+- Working software over comprehensive documentation
+- Customer collaboration over contract negotiation
+- Responding to change above following a plan
+
+These four principles are pretty cool imo. I like how focused it is on people and the product itself. The entire process is so dynamic that it forses the developers to let go of their egos and be more open minded. 
+
 ### Click [here](https://i0.wp.com/availagility.co.uk/wp-content/uploads/2015/12/Screen-Shot-2015-12-16-at-10.43.01.png) to see the Agile Manifesto. 
 
 
 Reflective Questions: What is an MVP? 
-MVP stands for minimum viable product. It's an approach for testing and getting feedback on your product and its features. It doesn't have to be the product itself, it could even be a crowd funding campaign to showcase your product to gain maximum feedback with minimal time and expenses.  
-Reflect on the exercise of building he tower and how it relates to Agile.
+MVP stands for minimum viable product. It's an approach for testing and getting feedback on your product and its features. It doesn't have to be the product itself, it could be a wesite, an app, a video, or even be a crowd funding campaign to showcase your product to gain quality feedback with minimal time and expenses.  
+
+Our task of creating teams and trying to build the tallest tower over three iterations, using raw spaghetti, tape, string and a marshmellow, was a good exercise to demonstrate why the agile model works well. Our first attemt failed, our second attempt also failed, and our third attempt was successful. During our first attempt, we made a plan together and allocated tasks, but we spent too much time on small details and were unable to make a finished tower. On our second attempt we didnt fuss over the small details and we made a finished tower but it didnt stand on its own. We found a bug at the end our second attempt that was making the taower topple over, and we were able to fix that bug and make the only free standing tower. Although we won and we had good teamwork, we still somewhat followed a more traditional approch to building the tower. A key element we were missing was an MVP. We were so focused on making the tallest people tower that we could and that which almost led to there being no tower at all. Our MVP would have been to make a free standing tower as fast as possible with minimal planning and time wasted, and from there we could have continued to make it taller with each itteration. 
+
 
 
 
 #### Promptsto use...
 
 ### Did you remember to take regular breaks away from your screen during this week? How often? Did you stretch your body?
-I've been try to maake sure I take a break atleast every hour, even if im confused about something and I know i'll likely spend my break time ruminating about my confusion. I have to make sure I take breaks so my mind stays clear and my body doesn't turn to stone. 
+I've been trying to make sure I take a break atleast every hour, even if Im confused about something and I know I'll likely spend my break time ruminating about my confusion. I have to make sure I take breaks so my mind stays clear and my body doesn't turn to stone. 
 
 ### What is Timeboxing? Have you heard of it before? Will you use it?
 
