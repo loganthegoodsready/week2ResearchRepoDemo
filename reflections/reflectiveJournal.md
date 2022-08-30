@@ -129,8 +129,10 @@ Nodes with lines connecting them...
 Reflective questions: How did you feel as a subject of a video? Did you notice your ego? How are we evolving with this device? How could we draw this activity? Did you feel more attachment to the phone than to your image?
 ** 
 
-## week 5
+# week 5
 Agile. We aregoing to experience it in order to learn what it is.
+The Agile model is the most widely used devopment methodology in in the tech space. It's a set of principles and guidlines used to execute a project. 
+### Click [here](https://i0.wp.com/availagility.co.uk/wp-content/uploads/2015/12/Screen-Shot-2015-12-16-at-10.43.01.png) to see the Agile Manifesto. 
 
 
 Reflective Questions: What is an MVP? 
