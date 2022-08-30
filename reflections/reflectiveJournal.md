@@ -130,8 +130,11 @@ Reflective questions: How did you feel as a subject of a video? Did you notice y
 ** 
 
 ## week 5
-Agile. We need to experience it in order to learn what it is. Let's see how this goes. 
-Reflective Questions: What is an MVP?
+Agile. We aregoing to experience it in order to learn what it is.
+
+
+Reflective Questions: What is an MVP? 
+MVP stands for minimum viable product. It's an approach for testing and getting feedback on your product and its features. It doesn't have to be the product itself, it could even be a crowd funding campaign to showcase your product to gain maximum feedback with minimal time and expenses.  
 Reflect on the exercise of building he tower and how it relates to Agile.
 
 
