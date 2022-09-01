@@ -133,8 +133,8 @@ Reflective questions: How did you feel as a subject of a video? Did you notice y
 ** 
 
 # week 5
-Agile. We aregoing to experience it in order to learn what it is.
-The Agile model is the most widely used devopment methodology in in the tech space. It's a set of principles and guidlines used to execute a project.
+Agile. We are going to experience it in order to learn what it is.
+The Agile model is the most widely used devopment methodology in the tech space. It's a set of principles and guidlines used to execute a project.
 
 Them main for values of Agile are:
 - Individuals and interactions over processes and tools
@@ -162,14 +162,27 @@ I've been trying to make sure I take a break atleast every hour, even if Im conf
 
 ### What is Timeboxing? Have you heard of it before? Will you use it?
 
+"In Agile principles, timeboxing allocates a fixed and maximum unit of time to an activity, called a timebox, within which planned activity takes place. It is used by Agile principles-based project management approaches and for personal time management."
+
+Up until googling "time boxing" right now, I had not heard of it. I do tend to ponder on unimportant matters so this would be a good tool to use in my own own life to help prioritise tasks. I dont work well under pressure generally, so introducing timeboxing should be good preparation for real real world work environments. 
+
 ### On a a 0-5 scale, how confident are you with each of the assignments?
+
+A 3/5
+
+Software development is a bit overwhelming but I know once I'm more familiar with the process of making a project I'll feel more confident.
 
 ### What are of you proud of up to this point in the course?
 
+Starting this course is the thing I'm most proud of so far. My last formal educational experience was in 2014 at university and that didn't pan out as I'd hoped, so signing up to this course was scary. 
+
 ### Do you have a personal learning strategy? If so, what parts of your learning strategy worked? What problems did you face? If you don't have a personal strategy yet, what do you think might work? Invent a describe a strategy for yourself. 
 
+Learning for me is similar to reading a book. I need to be by myself in a quiet place with no distractions. 
 
 ### If you could send a time traveling text message back to yourself at the start of this course, what would it say?
+
+
 
 ### What is Python?
 
