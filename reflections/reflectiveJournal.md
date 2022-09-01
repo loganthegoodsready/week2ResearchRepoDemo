@@ -164,7 +164,7 @@ I've been trying to make sure I take a break atleast every hour, even if Im conf
 
 "In Agile principles, timeboxing allocates a fixed and maximum unit of time to an activity, called a timebox, within which planned activity takes place. It is used by Agile principles-based project management approaches and for personal time management."
 
-Up until googling "time boxing" right now, I had not heard of it. I do tend to ponder on unimportant matters so this would be a good tool to use in my own own life to help prioritise tasks. I dont work well under pressure generally, so introducing timeboxing should be good preparation for real real world work environments. 
+Up until googling "time boxing" right now, I had not heard of it. I do tend to ponder on unimportant matters so this would be a good tool to use in my own own life to help prioritise tasks. I dont work well under pressure generally, so introducing timeboxing should be good preparation for real world work environments. 
 
 ### On a a 0-5 scale, how confident are you with each of the assignments?
 
@@ -178,10 +178,9 @@ Starting this course is the thing I'm most proud of so far. My last formal educa
 
 ### Do you have a personal learning strategy? If so, what parts of your learning strategy worked? What problems did you face? If you don't have a personal strategy yet, what do you think might work? Invent a describe a strategy for yourself. 
 
-Learning for me is similar to reading a book. I need to be by myself in a quiet place with no distractions. 
+Learning for me is similar to reading a book. I need to be by myself in a quiet place with no distractions. My biggest hinderance is procrastination. I'll generally delay doing something if I find it boring or if I'm confused which makes beginning the task daunting. One strategy I've used in the past which has worked is to set very small easily attainable goals. In this instance, the goal would be to 'study every day for 15 minutes'. Small goals like this work because it's not overwhelming. 15 minutes might not sound like much but that's not the part that matters, what matters is that once you've reached the 15 min mark you've achieved the goal and you feel a little bit accomplished and proud of yourself. This creates a positive association with with the activity which is easier to make a lasting habit. Even though the goal is only 15 minutes of study, you'll find that you'll usually study for a lot longer because it's only the 'starting' that's the hard part. Setting the goal to do it every day is another good hack because if you miss a day then you have the oppertunity to study again the next day and you're less likely to make excuses to 'start fresh the following week' for example. 
 
 ### If you could send a time traveling text message back to yourself at the start of this course, what would it say?
-
 
 
 ### What is Python?
