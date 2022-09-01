@@ -124,7 +124,10 @@ for y in range(1,13):
 ## Week 4
 
 ** What is a graph?
-Nodes with lines connecting them...
+
+Nodes with lines connecting them. Nodes contain the data and the lines are what connects that data. Graphs can be directed (one way connection) or undirected (two way connection) or both. The simplest example I have found of an undirected grapgh in a real world scenario is the Faceebook (social graph) "friend" system. Users with all their information attached represent the nodes, and if two people are friends on facebook that will mean there is a two way connection between them (undirected). Additionally, Facebook can use this grapgh to implement features such as the 'friend request system'. It's a simple system that suggests to you mutual frinds of your current friends. An example of a directed grapgh is the world wide web (which can also be undirected). A webisite may have a link on their site to another website, but if that website doesn't have a link back to them, it's just a one way connection. 
+
+In class today we made a video graph. There was a lack of cooperation from the class but I did get the jist of the exercise. Each person represented a node and the video feed of another person reresented the edge.  It was mostly a directed graph because the person you were filming would not also film you. Normally I dont like having the spotlight on me so being filmed makes me anxious, but because everyone else was also being filmed it lessened that anxiety a lot and I joined the hive mind of the group. People - especially gen z and millienials - have become very attached to their phones and it has become an extention of themselves. This became very noticiable for myself and probably many others in the class when we had to put our phones on the ground to be filmed. Photo galleries contain the most private parts of our lives, and that's exactly where my video was playing from. 
 
 Reflective questions: How did you feel as a subject of a video? Did you notice your ego? How are we evolving with this device? How could we draw this activity? Did you feel more attachment to the phone than to your image?
 ** 
