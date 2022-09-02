@@ -1,6 +1,6 @@
 # Reflective Journal
 
-## Week 1:
+## ⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐ Week 1:⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟
 
 ### What is Scratch?
 It is a fun visual programming language that is used to create interactive games and stories. The concept of stacking blocks makes it intuitive and helps the user understanding progamming principles.
@@ -20,7 +20,7 @@ Programming conventions - common rules, guidelines and approaches for programmin
 
 
 ### Can you share your favourite Scratch project that you have made or remixed?
-Yes i can.
+Yes I can.
 ### Click [Here](https://scratch.mit.edu/projects/718450845) to a play a game about a crab on drugs.
 
 
