@@ -185,6 +185,36 @@ Learning for me is similar to reading a book. I need to be by myself in a quiet 
 
 ### What is Python?
 
+Python is a high level, object orientated programming language. It has a very simple sytax that is similar to the normal written english language, which makes it a great language for beginners to learn to program. 
+Python can be usde for:
++ AI and machine learning,
++ Data analytics,
++ Data visualisation, .Programming applications,
++ Web development,
++ Game development,
++ Language development,
++ Finance,
++ SEO (search engine optmisation),
++ Design
+
+### What is object orientated programming?
+
+OOP is a type of programming paradigm, which refers to a way of thinking, or mindset when creating a program. OOP based on the concept of "objects", which can contain data and code: data in the form of fields (often known as attributes or properties), and code, in the form of procedures (often known as methods).
+
+An object is a thing that you want to store and process data about, such a car. The attributes of a car can be, make, colour, year, etc, and the methods (actions) could be, driving, braking, reversing, etc.
+
+In python, a "class" is a blueprint that denotes what atributes and methods a distinct object will have. It also defines the way in which that object can interact with other things. In Python there are built in classes such as data types like strings, intergers and floats.  In this code - print("Hello") - "Hello" is an object of the 'class' called 'string'. The class 'string' denotes that it can't be added to an interger - print("Hello" + 1) will return an error. 
+
+The four core concepts of OOP are:
+
+Encapsulation - This groups related variables and functions together to reduce complexity and incrase usability. 
+
+Abstraction - This hides details and complexity and shows only the essential code.
+
+Inheritance - This allows sub classes to inherit attributes and methods from parent classes to eliminate redundant code.
+
+Polymorphism - This translates to "many forms", and is a technique to get rid of long statements like elifs in python. Sub classes of a parent class can have a different 'arguements' for a 'method' using only one block of code. For example, "Animal' can be the parent class and 'dog', 'cat', and 'bird' can be sub classes of the 'Animal' class. The dog "barks", the cat "meows", and the bird "tweets" - these three actions can be executed using one block of code instead of a long statement. 
+
 ### Have you developed a habit of exploring?
 
 I like to explore topics that interest me in my personal life. Admittedly, I haven't done as much exploring as I'd like to for this course. Due to the confusion and feeling a bit overwhelemed by developing, I put it off. I've stuck to learning python progressively, mainly through an app called 'sololearn' to get a better understanding of the language. I have begun to explore types of python projects through youtube videos and tutorials which is widening my perspective of what's possible. I haven't explored any other languages yet, but I'd like to start learning more front end web development specific languages like Javascript and also mark up languages like html and CSS as well as explore web design principles because I'd love to make fun and interactive websites.
@@ -197,17 +227,17 @@ I've dabbled in meditation over the last several years. Usually I practice the m
 
 'Degree' being the key word here as I dont believe I've mastered anything yet. Two examples would be climbing a hard route almost perfectly and defeating a hard boss in a video game. It took a lot of hard work, creativity, and persistance for both things. One story/quote that always sticks with me regarding mastery and the time and energy it takes to aquire it is this one:
 
-“It’s you — Picasso, the great artist! Oh, you must sketch my portrait! I insist.”
+**_“It’s you — Picasso, the great artist! Oh, you must sketch my portrait! I insist.”
 
-So Picasso agreed to sketch her. After studying her for a moment, he used a single pencil stroke to create her portrait. He handed the women his work of art.
+**_So Picasso agreed to sketch her. After studying her for a moment, he used a single pencil stroke to create her portrait. He handed the women his work of art.
 
-“It’s perfect!” she gushed. “You managed to capture my essence with one stroke, in one moment. Thank you! How much do I owe you?”
+**_“It’s perfect!” she gushed. “You managed to capture my essence with one stroke, in one moment. Thank you! How much do I owe you?”
 
-“Five thousand dollars,” the artist replied.
+**_“Five thousand dollars,” the artist replied.
 
-“B-b-but, what?” the woman sputtered. “How could you want so much money for this picture? It only took you a second to draw it!”
+**_“B-b-but, what?” the woman sputtered. “How could you want so much money for this picture? It only took you a second to draw it!”
 
-To which Picasso responded, “Madame, it took me my entire life.”
+**_To which Picasso responded, “Madame, it took me my entire life.”
 
 
 ### Do you consider yourself a developer yet?
