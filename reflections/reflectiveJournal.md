@@ -1,6 +1,6 @@
 # Reflective Journal
 
-## ⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐ Week 1:⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟
+## ⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐ Week 1 ⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐
 
 ### What is Scratch?
 It is a fun visual programming language that is used to create interactive games and stories. The concept of stacking blocks makes it intuitive and helps the user understanding progamming principles.
@@ -25,7 +25,7 @@ Yes I can.
 
 
 
-## Week 2:
+## ⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐ Week 2 ⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐
 
 ### What is git?
 A dictionary defines a 'git' as "an unpleasant or contemptible person".
@@ -47,7 +47,7 @@ GitHub is a website and cloud-based service that helps developers store and mana
 
 
 
-## Week 3:
+## ⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐ Week 3 ⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐
 
 ### Click [Here](https://github.com/loganthegoodsready/Mangoisgreat.git) to see my attempts at the lab activities for week3/4.
 
@@ -90,7 +90,7 @@ Polymorphism - This translates to "many forms", and is a technique to get rid of
 
 
 
-## Week 4
+## ⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐ Week 4 ⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐
 
 ### What is a graph?
 
@@ -101,9 +101,11 @@ In class today we made a video graph. There was a lack of cooperation from the c
 
 
 
-## Week 5
+## ⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐ Week 5 ⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐
 
-Agile. We are going to experience it in order to learn what it is.
+### Agile. 
+
+We are going to experience it in order to learn what it is.
 The Agile model is the most widely used devopment methodology in the tech space. It's a set of principles and guidlines used to execute a project.
 
 Them main for values of Agile are:
@@ -147,7 +149,7 @@ During week four and five I started to feel quite lost and confused abouth the d
 
 
 
-## Week 6
+## ⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐ Week 6 ⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐
 
 I couldn't manage to get Koans running on my personal computer so I wasnt able to try that out. Instead I've been focusing on my repository and thinking about my project.
 
@@ -192,7 +194,7 @@ print(search(text, word))
 + I haven't started working on my project yet, but the first thing I plan to do is start making projects with python by following youtube tutorials and then see what I'm most drawn to. I'm quite excited about it. 
 
 
-# Misc Prompts 
+## ⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐ Misc Prompts ⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐
 
 ### Did you remember to take regular breaks away from your screen during this week? How often? Did you stretch your body?
 I've been trying to make sure I take a break atleast every hour, even if Im confused about something and I know I'll likely spend my break time ruminating about my confusion. I have to make sure I take breaks so my mind stays clear and my body doesn't turn to stone. 
