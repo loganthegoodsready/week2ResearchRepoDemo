@@ -8,9 +8,13 @@ It is a fun visual programming language that is used to create interactive games
 ### What is visual programming?
 A visual programming language is any programming language that lets users create programs by manipulating program elements graphically rather than by specifying them textually.
 
-### What are some programming principles that you have discovered?
-"Programming is simply a set of instructions to tell a computer how to perform a particular task". Programming languges are used as the "set of instructions", and there are many languages that have their own "syntax", but they all share the same purpose. There are 'low level' and 'high level' languages, the former being closer "machine code"  which the computer for can process directly (Computers understand 0's and 1's - binary - exclusively), and the latter being closer to noraml "human" language. Programming languages are 'compiled' and/or 'interpreted' in order to be translated into machine code.
-Programming conventions - common rules, guidelines and approaches for programming languages - are the begining of the "programming principles" I'm becoming familiar with. 'Standard libraries' which defines the built-in functions and modules for a particular language are an important aspect of high level languages. "Style guides", seem to be synonymous with "syntax" so I may need to follow up on that if it's important. Variables are place holders for information, and each varibale stores just one piece of information. They store data types which can be numeric, text (strings) or booleans (True or False values). 
+### If you were describing programming to someone who knows nothing about it, what would you say?
+
+"Programming is simply a set of instructions to tell a computer how to perform a particular task". Programming languges are used as the "set of instructions", and there are many languages that have their own "syntax", but they all share the same purpose. There are 'low level' and 'high level' languages, the former being closer "machine code"  which the computer for can process directly (Computers understand 0's and 1's - binary - exclusively), and the latter being closer to noraml "human" language.  
+
+### What are some of the programming principles you've discovered?
+
+Programming conventions - common rules, guidelines and approaches for programming languages - are the begining of the "programming principles" I'm becoming familiar with. 'Standard libraries' which defines the built-in functions and modules for a particular language are an important aspect of high level languages. "Style guides", seem to be synonymous with "syntax" so I may need to follow up on that if it's important. Variables are storage boxes for information, and each varibale stores just one piece of information, but can be updated. They store data types which can be numeric, text (strings) or booleans (True or False values). 
  "A flowchart is a simple diagram that illustrates the stages or steps the computer must complete to solve the problem". These visual representations of code are easier to grasp than normal written code. Scratch is similar to a flow chart in many ways. seeing the visual elements of flow charts such as sequence, condition and itteration, make 'control flow' concepts like "while loops" in 'Python'(or any other language) easier to understand. 
  K.I.S.S - Short, concise and coherent code is optimal as it's quicker to write and read. "code is read more than it's written"- Said many people.
 
@@ -18,6 +22,7 @@ Programming conventions - common rules, guidelines and approaches for programmin
 ### Can you share your favourite Scratch project that you have made or remixed?
 Yes i can.
 ### Click [Here](https://scratch.mit.edu/projects/718450845) to a play a game about a crab on drugs.
+
 
 ## Week 2:
 
@@ -28,7 +33,7 @@ or "Git is software for tracking changes in any set of files, usually used for c
 ### What is GitHub?
 GitHub is a website and cloud-based service that helps developers store and manage their code, as well as track and control changes to their code. A developer can duplicate part of the source code (called the repository). The developer can then safely make changes to that part of the code without affecting the rest of the project.
 
-# Hello, Markdown
+### Hello, Markdown
 **this should be in bold**, _and this should be in italics?._ **_And this in bold italics_** ~~Cross this out~~
 * Unordered sublist
 + Using any symbol 
@@ -38,6 +43,7 @@ GitHub is a website and cloud-based service that helps developers store and mana
 1. But how do you get a middle dot???
 
 ### Click [Here](https://loganthegoodsready.github.io/) to see an incredible static website.
+
 
 ## Week 3:
 
@@ -100,7 +106,7 @@ Them main for values of Agile are:
 - Customer collaboration over contract negotiation
 - Responding to change above following a plan
 
-These four principles are pretty cool imo. I like how focused it is on people and the product itself. The entire process is so dynamic that it forses the developers to let go of their egos and be more open minded. 
+These four principles are pretty cool imo. I like how focused it is on people and the product itself. The entire process is so dynamic that it forces the developers to let go of their egos and be more open minded. 
 
 ### Click [here](https://i0.wp.com/availagility.co.uk/wp-content/uploads/2015/12/Screen-Shot-2015-12-16-at-10.43.01.png) to see the Agile Manifesto. 
 
@@ -132,6 +138,51 @@ Our task of creating teams and trying to build the tallest tower over three iter
 ### Reflection on the last five weeks
 
 During week four and five I started to feel quite lost and confused abouth the direction of the course. Infact, I was so lost that stopped doing any study at all. I was trying to collect my thoughts in that time instead. My confusion was due to a misunderstanding about the course material and also the unorthodox teaching style that I wasn't used to. My expectation was that the class would be learning Python progressively each week during lectures, along with other things ofcourse, and that would ultimately lead to making projects with python. This confusion was due to the the older course outline I was given when I signed up for the course. After reaching out to you (Roman) regarding my concerns, The final thing you said to me was "trust the process". I've been doing so since that interaction and I've felt my confident with the direction of the course. I'm a bit behind schedule due to my 2 week break from study, but I have a rough idea of my plans. During that interaction you also sent me a link to a video about developing a growth mindset by Carol Dweck. That video made me better understand your teaching style and the course structure. You're trying to encourage a growth mindset with this course, and help students break free from the fixed mindset they might have. By choosing our own projects we are faced with challenge of aiming for a high goal, and you're encouraging us to explore that route and to not be afraid failure, and learn from it instead. I hope that if I do fail this assignment, I'm given the grade "Not yet".
+
+
+## Week 6
+
+I couldn't manage to get Koans running on my personal computer so I wasnt able to try that out. Instead I've been focusing on my repository and thinking about my project.
+
+I have also just finished the python for beginners course on sololearn which was quite fun but also challenging and I'm looking foward to the intermmediate course. I'll share one of the many 'code projects' that you have to complete after learning about a new topic.
+
+#### Prompt
+
+You’re working on a search engine. Watch your back Google!
+The given code takes a text and a word as input and passes them to a function called search().
+The search() function should return "Word found" if the word is present in the text, or "Word not found", if it’s not.
+Sample Input:
+"This is awesome"
+"awesome"
+Sample Output:
+Word found
+
+#### Code:
+
+def search(x,y):
+   
+   if y in x:
+    
+    return("Word found")
+   
+   else:
+    
+    return("Word not found")
+   
+
+text = input()
+
+word = input()
+
+print(search(text, word))
+
+
+### My project ideas so far are:
+
++ A 2d platformer inspired by Hollow Knight made with pygame or a game engine like unity.
++ The Ai generated images gave me a cool idea. I thought that maybe I could generate random Prompts with python and feed it into the AI so it would produce something truly random and maybe awesome. If I had lists with 100 words per list and the list catorgories were nouns, pronouns, adjectives, verbs, adverbs, prepositions, conjunctions and articles, and I was able to write a code that spat out a gramatically correct description each time by picking one word from each list, then that might produce some cool images. Id execute it so You dont see the prompt the progrom generates until the images renders. 
++ My other idea is essentially the same thing except it would use web scraping to gather data instead of me inputting words myself. I'm not sure if youve heard of the 'library of babel", but its an online library that contains eerything that has been and will be said in the english language up to 3200 characters. it currently contains 10^4677 of books. For comparison, there are 10^80 atoms in the observable universe. Using that to somehow generate images would be awesome but maybe impossible.
++ I haven't started working on my project yet, but the first thing I plan to do is start making projects with python by following youtube tutorials and then see what I'm most drawn to. I'm quite excited about it. 
 
 
 # Misc Prompts 
@@ -198,18 +249,27 @@ Currently I have 15 tabs open. If I open any more than that I cant decypher what
 
 I have read through some of the contents on canvas. I do find it quite helpful. I tend to search for other definitions and examples on the interent aswell so I can compare them and have a better understanding of the topics. The python modules on there werent very helpful to me though. Reading about how to code is quite confusing, and I prefer the online courses that have a lot more interaction and are fun as opposed to boring, which is what I thought abouth the modules. 
 
+
 ### Did you hear a self critical voice in your head throughout the process of learning during this last few weeks? What did it say to you? Do you believe what it said?
 
 Self doubt always finds a way of creeping in. The voice was saying "You wont get anything out of this course" and "Programming is way too hard, you wont be good enough to get a job". Math and  problem solving to the degree that programming requires, I thought to be out of my wheel house because I never gravitated towards them in school. This along with the confusion about the course I was experiencing led to these thoughts I believe. Did I believe those thoughts? To some degree I did, but I'm still in the course so I must have overcome it. 
 
-### What is the hardest problem you have solved so far?
 
 ### What is pair programming?
 
+Pair programming is an Agile technique where two developers work together at the same work station. One perso writes code while the other person observes and reviews it. The two pair will alternate roles to they dont overwork themselves. The pair can solves problems together which minmises mistakes and one might have strenths where the other has weaknesses and vice versa. This would increase productivity and also makes work fun which is a bonus. 
+
+
 ### What is conscious listening?
+
+Genuinely listening to the person. The more common thing to do amongst humans is preparing what you're going to say while the other person is speaking. Take in what they say with full comprehension.
+
 
 ### What is something kind that someone has done for you?
 
-### If you were describing programming to someone who knows nothing about it, what would you say?
+My flatmate makes me hot chocolates.
+
 
 ### What is something kind you have done for someone else?
+
+I make my flatmate dinner often.
