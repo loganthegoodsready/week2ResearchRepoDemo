@@ -248,21 +248,14 @@ As soon as I typed print(Hello, World!) and ran the program, I considered myself
 
 Currently I have 15 tabs open. If I open any more than that I cant decypher what any of them are. My laptop is a purely for study so there are no tabs open that can distract me. 
 
-### Have you had a fight response to technology? What does it feel like? How did you overcome this?
-
-
 
 ### What is an IDE?
 
-### So far, what was the hardest moment of this course for you?
-
-### What is OOP?
+IDE stands for and integrated develompment environment.
 
 ### Are you using the canvas content? Do you find it helpful or tedious?
 
 ### Which parts of the work did you find tedious?
-
-### What is polymorphism?
 
 ### Did you hear a self critical voice in your head throughout the process of learning during this last few weeks? What did it say to you? Do you believe what it said?
 
