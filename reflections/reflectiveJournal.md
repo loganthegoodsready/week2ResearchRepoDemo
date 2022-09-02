@@ -37,7 +37,7 @@ GitHub is a website and cloud-based service that helps developers store and mana
 
 1. But how do you get a middle dot???
 
-## Click [Here](https://scratch.mit.edu/projects/718450845) to see an incredible static website.
+## Click [Here](https://loganthegoodsready.github.io/) to see an incredible static website.
 
 ## Week 3:
 
