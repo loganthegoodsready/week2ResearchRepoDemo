@@ -1,4 +1,6 @@
-# Reflective Journal
+# 📔✍️📔✍️📔✍️📔✍️📔 Reflective Journal 📔✍️📔✍️📔✍️📔✍️📔
+
+
 
 ## ⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐ Week 1 ⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐
 
@@ -194,7 +196,7 @@ print(search(text, word))
 + I haven't started working on my project yet, but the first thing I plan to do is start making projects with python by following youtube tutorials and then see what I'm most drawn to. I'm quite excited about it. 
 
 
-## ⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐ Misc Prompts ⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐
+## ⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐ Misc Prompts ⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐🌟⭐
 
 ### Did you remember to take regular breaks away from your screen during this week? How often? Did you stretch your body?
 I've been trying to make sure I take a break atleast every hour, even if Im confused about something and I know I'll likely spend my break time ruminating about my confusion. I have to make sure I take breaks so my mind stays clear and my body doesn't turn to stone. 
