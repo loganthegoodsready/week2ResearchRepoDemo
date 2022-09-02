@@ -200,20 +200,16 @@ I have read through some of the contents on canvas. I do find it quite helpful. 
 
 ### Did you hear a self critical voice in your head throughout the process of learning during this last few weeks? What did it say to you? Do you believe what it said?
 
-Self doubt always finds a way of creeping in. The voice was saying "You wont get anything out of this course" and "Programming is way too hard, you wont be good enough to get a job". Math and problem solving to the degree that programming requires, I thought to be out of my wheel house because I never gravitated towards them in school.  
+Self doubt always finds a way of creeping in. The voice was saying "You wont get anything out of this course" and "Programming is way too hard, you wont be good enough to get a job". Math and  problem solving to the degree that programming requires, I thought to be out of my wheel house because I never gravitated towards them in school. This along with the confusion about the course I was experiencing led to these thoughts I believe. Did I believe those thoughts? To some degree I did, but I'm still in the course so I must have overcome it. 
 
 ### What is the hardest problem you have solved so far?
 
 ### What is pair programming?
-
-### What are you looking forward to learning about programming?
 
 ### What is conscious listening?
 
 ### What is something kind that someone has done for you?
 
 ### If you were describing programming to someone who knows nothing about it, what would you say?
-
-### Which parts of this course made you feel doubtful of your own innate ability?
 
 ### What is something kind you have done for someone else?
