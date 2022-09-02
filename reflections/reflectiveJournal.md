@@ -24,6 +24,7 @@ Yes i can.
 ### Click [Here](https://scratch.mit.edu/projects/718450845) to a play a game about a crab on drugs.
 
 
+
 ## Week 2:
 
 ### What is git?
@@ -43,6 +44,7 @@ GitHub is a website and cloud-based service that helps developers store and mana
 1. But how do you get a middle dot???
 
 ### Click [Here](https://loganthegoodsready.github.io/) to see an incredible static website.
+
 
 
 ## Week 3:
@@ -86,6 +88,8 @@ Inheritance - This allows sub classes to inherit attributes and methods from par
 Polymorphism - This translates to "many forms", and is a technique to get rid of long statements like elifs in python. Sub classes of a parent class can have a different 'arguements' for a 'method' using only one block of code. For example, "Animal' can be the parent class and 'dog', 'cat', and 'bird' can be sub classes of the 'Animal' class. The dog "barks", the cat "meows", and the bird "tweets" - these three actions can be executed using one block of code instead of a long statement. 
 
 
+
+
 ## Week 4
 
 ### What is a graph?
@@ -95,7 +99,9 @@ Nodes with lines connecting them. Nodes contain the data and the lines are what 
 In class today we made a video graph. There was a lack of cooperation from the class but I did get the jist of the exercise. Each person represented a node and the video feed of another person reresented the edge.  It was mostly a directed graph because the person you were filming would not also film you. Normally I dont like having the spotlight on me so being filmed makes me anxious, but because everyone else was also being filmed it lessened that anxiety a lot and I joined the hive mind of the group. People - especially gen z and millienials - have become very attached to their phones and it has become an extention of themselves. This became very noticiable for myself and probably many others in the class when we had to put our phones on the ground to be filmed. Photo galleries contain the most private parts of our lives, and that's exactly where my video was playing from. 
 
 
-## week 5
+
+
+## Week 5
 
 Agile. We are going to experience it in order to learn what it is.
 The Agile model is the most widely used devopment methodology in the tech space. It's a set of principles and guidlines used to execute a project.
@@ -115,7 +121,7 @@ These four principles are pretty cool imo. I like how focused it is on people an
 
 MVP stands for minimum viable product. It's an approach for testing and getting feedback on your product and its features. It doesn't have to be the product itself, it could be a wesite, an app, a video, or even be a crowd funding campaign to showcase your product to gain quality feedback with minimal time and expenses.
 
-### How i would explain MVP to a 6 year old
+### How I would explain MVP to a 6 year old
 
 Lets say you wanted to make a lemonade stand becuase you know you make the best lemonade and you also want to make some pocket money. But right noww you dont have money for the things you need to start the lemonade stand like cups, lemons, a stand, and a big jug of the lemonade, so you need to ask your parent for money. You might be worried that they wont give you any money to increase your chances of getting the money you can write out a list of why you want to make a lemonade stand, and you can also make one glass of lemonde to give your parents to show them it's the best! 
 
@@ -138,6 +144,7 @@ Our task of creating teams and trying to build the tallest tower over three iter
 ### Reflection on the last five weeks
 
 During week four and five I started to feel quite lost and confused abouth the direction of the course. Infact, I was so lost that stopped doing any study at all. I was trying to collect my thoughts in that time instead. My confusion was due to a misunderstanding about the course material and also the unorthodox teaching style that I wasn't used to. My expectation was that the class would be learning Python progressively each week during lectures, along with other things ofcourse, and that would ultimately lead to making projects with python. This confusion was due to the the older course outline I was given when I signed up for the course. After reaching out to you (Roman) regarding my concerns, The final thing you said to me was "trust the process". I've been doing so since that interaction and I've felt my confident with the direction of the course. I'm a bit behind schedule due to my 2 week break from study, but I have a rough idea of my plans. During that interaction you also sent me a link to a video about developing a growth mindset by Carol Dweck. That video made me better understand your teaching style and the course structure. You're trying to encourage a growth mindset with this course, and help students break free from the fixed mindset they might have. By choosing our own projects we are faced with challenge of aiming for a high goal, and you're encouraging us to explore that route and to not be afraid failure, and learn from it instead. I hope that if I do fail this assignment, I'm given the grade "Not yet".
+
 
 
 ## Week 6
