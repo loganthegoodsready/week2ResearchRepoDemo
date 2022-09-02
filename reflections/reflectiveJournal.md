@@ -251,7 +251,7 @@ Currently I have 15 tabs open. If I open any more than that I cant decypher what
 
 ### What is an IDE?
 
-IDE stands for and integrated develompment environment.
+IDE stands for and integrated develompment environment. It provides the user interface for code development, testing and debugging. The IDE I have benn using is called Pycharm, and It's very easy to use. I may have to swith to another IDE such as Visual studio code as I plan to learn other programming languages that wont run in Pycharm. 
 
 ### Are you using the canvas content? Do you find it helpful or tedious?
 
