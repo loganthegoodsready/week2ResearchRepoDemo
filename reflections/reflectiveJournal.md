@@ -37,104 +37,56 @@ GitHub is a website and cloud-based service that helps developers store and mana
 
 1. But how do you get a middle dot???
 
-## Click [Here](https://loganthegoodsready.github.io/) to see an incredible static website.
+### Click [Here](https://loganthegoodsready.github.io/) to see an incredible static website.
 
 ## Week 3:
 
-# Lab task 1:
-age = float(input("How old is your dog in human years? "))
-if age == 2:
-    print("Your dog is", 10.5, "years old")
-elif age > 2:
-    print("Your dog is", (age-2)*4 + 21, "years old")
-elif age <= 1:
-    print("your dog is a puppy")
-elif age >1 and age <2:
-    print("your dog is an adolescent")
+### Click [Here](https://github.com/loganthegoodsready/Mangoisgreat.git) to see my attempts at the lab activities for week3/4.
 
-### else statement N/A
-~~I'd like to figure out a differnt way to write this code if possible~~
+### What is Python?
 
-**_This seems like the best way to write this code_**
+Python is a high level, object orientated programming language. It has a very simple sytax that is similar to the normal written english language, which makes it a great language for beginners to learn to program. 
+Python can be usde for:
++ AI and machine learning,
++ Data analytics,
++ Data visualisation, .Programming applications,
++ Web development,
++ Game development,
++ Language development,
++ Finance,
++ SEO (search engine optmisation),
++ Design
 
-# Lab task 2:
-month_31 =['January','March', 'May', 'July', 'August', 'October', 'December']
-month_30 =['April', 'June', 'September', 'November']
-month_28_29 =['February']
-birth_month= input("What is your birth month? ")
-if birth_month in month_31:
-    print("There are 31 days in",birth_month)
-elif birth_month in month_30:
-    print("There are 30 days in",birth_month)
-elif birth_month in month_28_29:
-    print("There are 28 days in",birth_month+", or 29 days on leap year")
+### What is object orientated programming?
 
-### originally I wrote this code using the 'or' operater but it looked far too long and messy. After some research I discovered i could use a 'list' function and the 'in' operator to make it shorter and more comprehensive. 
+OOP is a type of programming paradigm, which refers to a way of thinking, or mindset when creating a program. OOP based on the concept of "objects", which can contain data and code: data in the form of fields (often known as attributes or properties), and code, in the form of procedures (often known as methods).
 
-# Lab task 3:
-cat = input("What is your name \n")
-print("your name is a", type(cat))
+An object is a thing that you want to store and process data about, such a car. The attributes of a car can be, make, colour, year, etc, and the methods (actions) could be, driving, braking, reversing, etc.
 
-### I'm not entirely sure how to do this one, but outputting the class type of the input seemed to be the closest option I could think of. 
+In python, a "class" is a blueprint that denotes what atributes and methods a distinct object will have. It also defines the way in which that object can interact with other things. In Python there are built in classes such as data types like strings, intergers and floats.  In this code - print("Hello") - "Hello" is an object of the 'class' called 'string'. The class 'string' denotes that it can't be added to an interger - print("Hello" + 1) will return an error. 
 
-# Lab task 4:
-num_1= int(input("Enter first number: "))
-num_2= int(input("Enter second number "))
-if num_1 % 2 ==0 or num_1 % 3 == 0 and num_2 % 2 == 0 or num_2 % 3 ==0:
-    print(num_1 * num_2 )
+The four core concepts of OOP are:
 
-### Nice and easy :)
+Encapsulation - This groups related variables and functions together to reduce complexity and incrase usability. 
 
-# Lab task 5:
-temp = input("Enter '1' to convert celsius to fahrenheit\nEnter '2' to convert fahrenheit to celsius ")
-if "1" in temp:
-    celsius = float(input("Enter temp in celsius: "))
-    fahrenheit = celsius*1.8+32
-    print(celsius, "celsius is equivalent to", fahrenheit, "fahrenheit")
-elif "2" in temp:
-    fahrenheit = float(input("Enter temp in fahrenheit: "))
-    celsius = ((fahrenheit - 32) *5 / 9)
-    print(fahrenheit, "fahrenheit is equivalent to", celsius, "celsius")
+Abstraction - This hides details and complexity and shows only the essential code.
 
-### This one im stuck on. "enter 1 for, enter 2 for, and enter 3 for" HOW? 
+Inheritance - This allows sub classes to inherit attributes and methods from parent classes to eliminate redundant code.
 
-# Lab task 6:
-### I'll get back to this one. too many convervsions. maybe there's a built in module to do it.
+Polymorphism - This translates to "many forms", and is a technique to get rid of long statements like elifs in python. Sub classes of a parent class can have a different 'arguements' for a 'method' using only one block of code. For example, "Animal' can be the parent class and 'dog', 'cat', and 'bird' can be sub classes of the 'Animal' class. The dog "barks", the cat "meows", and the bird "tweets" - these three actions can be executed using one block of code instead of a long statement. 
 
-# Lab task 7:
-x = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-print(sum(x))
-print(sum(x) / 10)
-
-### seems easy enough, although i will forget it if I don't practice.
-
-# Lab task 8:
-num = 1
-for y in range(1,13):
-    print(num,"x", y, "=", num*y)
-
-### How to print them in a grid like:
-
-1 x tables   2 x tables   3 x tables   4 x tables
-
-5 x tables   6 x tables   7 x tables   8 x tables
-
-9 x tables   10 x tables   11 x tables   12 x tables
-
-### ??? Need to find out how to do this. Hopefully the answer will come apparent to me as I learn more python. 
 
 ## Week 4
 
-** What is a graph?
+### What is a graph?
 
 Nodes with lines connecting them. Nodes contain the data and the lines are what connects that data. Graphs can be directed (one way connection) or undirected (two way connection) or both. The simplest example I have found of an undirected grapgh in a real world scenario is the Faceebook (social graph) "friend" system. Users with all their information attached represent the nodes, and if two people are friends on facebook that will mean there is a two way connection between them (undirected). Additionally, Facebook can use this grapgh to implement features such as the 'friend request system'. It's a simple system that suggests to you mutual frinds of your current friends. An example of a directed grapgh is the world wide web (which can also be undirected). A webisite may have a link on their site to another website, but if that website doesn't have a link back to them, it's just a one way connection. 
 
 In class today we made a video graph. There was a lack of cooperation from the class but I did get the jist of the exercise. Each person represented a node and the video feed of another person reresented the edge.  It was mostly a directed graph because the person you were filming would not also film you. Normally I dont like having the spotlight on me so being filmed makes me anxious, but because everyone else was also being filmed it lessened that anxiety a lot and I joined the hive mind of the group. People - especially gen z and millienials - have become very attached to their phones and it has become an extention of themselves. This became very noticiable for myself and probably many others in the class when we had to put our phones on the ground to be filmed. Photo galleries contain the most private parts of our lives, and that's exactly where my video was playing from. 
 
-Reflective questions: How did you feel as a subject of a video? Did you notice your ego? How are we evolving with this device? How could we draw this activity? Did you feel more attachment to the phone than to your image?
-** 
 
-# week 5
+## week 5
+
 Agile. We are going to experience it in order to learn what it is.
 The Agile model is the most widely used devopment methodology in the tech space. It's a set of principles and guidlines used to execute a project.
 
@@ -149,8 +101,21 @@ These four principles are pretty cool imo. I like how focused it is on people an
 ### Click [here](https://i0.wp.com/availagility.co.uk/wp-content/uploads/2015/12/Screen-Shot-2015-12-16-at-10.43.01.png) to see the Agile Manifesto. 
 
 
-Reflective Questions: What is an MVP? 
-MVP stands for minimum viable product. It's an approach for testing and getting feedback on your product and its features. It doesn't have to be the product itself, it could be a wesite, an app, a video, or even be a crowd funding campaign to showcase your product to gain quality feedback with minimal time and expenses.  
+### What is an MVP? 
+
+MVP stands for minimum viable product. It's an approach for testing and getting feedback on your product and its features. It doesn't have to be the product itself, it could be a wesite, an app, a video, or even be a crowd funding campaign to showcase your product to gain quality feedback with minimal time and expenses.
+
+### How i would explain MVP to a 6 year old
+
+Lets say you wanted to make a lemonade stand becuase you know you make the best lemonade and you also want to make some pocket money. But right noww you dont have money for the things you need to start the lemonade stand like cups, lemons, a stand, and a big jug of the lemonade, so you need to ask your parent for money. You might be worried that they wont give you any money to increase your chances of getting the money you can write out a list of why you want to make a lemonade stand, and you can also make one glass of lemonde to give your parents to show them it's the best! 
+
++ It's summer and everyone is thirsty
++ It's school holidays so all the kids and their parents are outside
++ A lot of people walk by your house so you might sell lots of lemonade
+
+The list, and also the one glass of lemonade you give your parents is the MVP. All you needed was a pencil and paper, and you also had to make one glass of lemonade with ingredients that were already in the house, so it didnt cost you anything. If your parents like your idea of the lemonade stand they might give you the money to start it, and they might also give you some advice like adding two different sized cups. You can take their advice and make changes to your lemonade stand. 
+
+### Spaghetti tower challenge
 
 Our task of creating teams and trying to build the tallest tower over three iterations, using raw spaghetti, tape, string and a marshmellow, was a good exercise to demonstrate why the agile model works well. Our first attemt failed, our second attempt also failed, and our third attempt was successful. During our first attempt, we made a plan together and allocated tasks, but we spent too much time on small details and were unable to make a finished tower. On our second attempt we didnt fuss over the small details and we made a finished tower but it didnt stand on its own. We found a bug at the end our second attempt that was making the taower topple over, and we were able to fix that bug and make the only free standing tower. Although we won and we had good teamwork, we still somewhat followed a more traditional approch to building the tower. A key element we were missing was an MVP. We were so focused on making the tallest people tower that we could and that which almost led to there being no tower at all. Our MVP would have been to make a free standing tower as fast as possible with minimal planning and time wasted, and from there we could have continued to make it taller with each itteration. 
 
@@ -185,37 +150,6 @@ Starting this course is the thing I'm most proud of so far. My last formal educa
 Learning for me is similar to reading a book. I need to be by myself in a quiet place with no distractions. My biggest hinderance is procrastination. I'll generally delay doing something if I find it boring or if I'm confused which makes beginning the task daunting. One strategy I've used in the past which has worked, is to set very small easily attainable goals. In this instance, the goal would be to 'study every day for 15 minutes'. Small goals like this work because it's not overwhelming. 15 minutes might not sound like much but that's not the part that matters, what matters is that once you've reached the 15 min mark, you've achieved the goal and you feel a little bit accomplished and proud of yourself. This creates a positive association with the activity which is easier for building a lasting habit. Even though the goal is only 15 minutes of study, you'll find that you'll usually study for a lot longer because it's only the 'starting' that's the hard part. Setting the goal to do it every day is another good hack because if you miss a day then you have the oppertunity to study again the next day and you're less likely to make excuses to 'start fresh the following week' for example. 
 
 
-### What is Python?
-
-Python is a high level, object orientated programming language. It has a very simple sytax that is similar to the normal written english language, which makes it a great language for beginners to learn to program. 
-Python can be usde for:
-+ AI and machine learning,
-+ Data analytics,
-+ Data visualisation, .Programming applications,
-+ Web development,
-+ Game development,
-+ Language development,
-+ Finance,
-+ SEO (search engine optmisation),
-+ Design
-
-### What is object orientated programming?
-
-OOP is a type of programming paradigm, which refers to a way of thinking, or mindset when creating a program. OOP based on the concept of "objects", which can contain data and code: data in the form of fields (often known as attributes or properties), and code, in the form of procedures (often known as methods).
-
-An object is a thing that you want to store and process data about, such a car. The attributes of a car can be, make, colour, year, etc, and the methods (actions) could be, driving, braking, reversing, etc.
-
-In python, a "class" is a blueprint that denotes what atributes and methods a distinct object will have. It also defines the way in which that object can interact with other things. In Python there are built in classes such as data types like strings, intergers and floats.  In this code - print("Hello") - "Hello" is an object of the 'class' called 'string'. The class 'string' denotes that it can't be added to an interger - print("Hello" + 1) will return an error. 
-
-The four core concepts of OOP are:
-
-Encapsulation - This groups related variables and functions together to reduce complexity and incrase usability. 
-
-Abstraction - This hides details and complexity and shows only the essential code.
-
-Inheritance - This allows sub classes to inherit attributes and methods from parent classes to eliminate redundant code.
-
-Polymorphism - This translates to "many forms", and is a technique to get rid of long statements like elifs in python. Sub classes of a parent class can have a different 'arguements' for a 'method' using only one block of code. For example, "Animal' can be the parent class and 'dog', 'cat', and 'bird' can be sub classes of the 'Animal' class. The dog "barks", the cat "meows", and the bird "tweets" - these three actions can be executed using one block of code instead of a long statement. 
 
 ### Have you developed a habit of exploring?
 
