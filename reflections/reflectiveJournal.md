@@ -182,30 +182,47 @@ Starting this course is the thing I'm most proud of so far. My last formal educa
 
 Learning for me is similar to reading a book. I need to be by myself in a quiet place with no distractions. My biggest hinderance is procrastination. I'll generally delay doing something if I find it boring or if I'm confused which makes beginning the task daunting. One strategy I've used in the past which has worked, is to set very small easily attainable goals. In this instance, the goal would be to 'study every day for 15 minutes'. Small goals like this work because it's not overwhelming. 15 minutes might not sound like much but that's not the part that matters, what matters is that once you've reached the 15 min mark, you've achieved the goal and you feel a little bit accomplished and proud of yourself. This creates a positive association with the activity which is easier for building a lasting habit. Even though the goal is only 15 minutes of study, you'll find that you'll usually study for a lot longer because it's only the 'starting' that's the hard part. Setting the goal to do it every day is another good hack because if you miss a day then you have the oppertunity to study again the next day and you're less likely to make excuses to 'start fresh the following week' for example. 
 
-### If you could send a time traveling text message back to yourself at the start of this course, what would it say?
-
 
 ### What is Python?
 
 ### Have you developed a habit of exploring?
 
+I like to explore topics that interest me in my personal life. Admittedly, I haven't done as much exploring as I'd like to for this course. Due to the confusion and feeling a bit overwhelemed by developing, I put it off. I've stuck to learning python progressively, mainly through an app called 'sololearn' to get a better understanding of the language. I have begun to explore types of python projects through youtube videos and tutorials which is widening my perspective of what's possible. I haven't explored any other languages yet, but I'd like to start learning more front end web development specific languages like Javascript and also mark up languages like html and CSS as well as explore web design principles because I'd love to make fun and interactive websites.
+
 ### Have you meditated before?
+
+I've dabbled in meditation over the last several years. Usually I practice the most basic form form of meditation. Essentially choosing an anchor to focus on, and when you notice your mind wondering, gently bringing your attention back to your anchor. I notice that the more I meditate, the more I start to notice when my mind has wondered in everyday life, and I can bring my attention back to the present moment. It's also been great for recognising and observing emotions as they arise, which has allowed me to respond calmly to situations that id usually react to negatively. The areas related to this field that fascinate me the most are conciousness and free will. How does matter give rise to conciousness and do we or dont we have free will. I fall into the camp that suggest we dont have free will, but I'd still love to see these questions answered in my lifetime. AI might have a huge role to play in answering these questions, and that's another field I'd like to explore. 
 
 ### Is there something over which you have gained a degree of mastery before in your life? Gymnastics, Rubik's Cubes, A Video Game? What did it take?
 
+'Degree' being the key word here as I dont believe I've mastered anything yet. Two examples would be climbing a hard route almost perfectly and defeating a hard boss in a video game. It took a lot of hard work, creativity, and persistance for both things. One story/quote that always sticks with me regarding mastery and the time and energy it takes to aquire it is this one:
+
+“It’s you — Picasso, the great artist! Oh, you must sketch my portrait! I insist.”
+
+So Picasso agreed to sketch her. After studying her for a moment, he used a single pencil stroke to create her portrait. He handed the women his work of art.
+
+“It’s perfect!” she gushed. “You managed to capture my essence with one stroke, in one moment. Thank you! How much do I owe you?”
+
+“Five thousand dollars,” the artist replied.
+
+“B-b-but, what?” the woman sputtered. “How could you want so much money for this picture? It only took you a second to draw it!”
+
+To which Picasso responded, “Madame, it took me my entire life.”
+
+
 ### Do you consider yourself a developer yet?
 
-### Do you value creativity? As a value itself? What about as a tool for learning to think logically?
+As soon as I typed print(Hello, World!) and ran the program, I considered myself a programmer. I've come a little way since then and I have a long journey ahead of me. 
 
 ### How many tabs do you have open in your web browser right now? What is the ratio of study related tabs to distraction related tabs?
 
+Currently I have 15 tabs open. If I open any more than that I cant decypher what any of them are. My laptop is a purely for study so there are no tabs open that can distract me. 
+
 ### Have you had a fight response to technology? What does it feel like? How did you overcome this?
 
+
+
 ### What is an IDE?
-
-### What did you learn out of the Marshmallow Challenge?
-
-### Did you have any blocks during this challenge? How did you overcome them?
 
 ### So far, what was the hardest moment of this course for you?
 
@@ -229,20 +246,10 @@ Learning for me is similar to reading a book. I need to be by myself in a quiet 
 
 ### What is conscious listening?
 
-
-### What programming languages are you interested in learning? Why?
-
 ### What is something kind that someone has done for you?
 
 ### If you were describing programming to someone who knows nothing about it, what would you say?
 
 ### Which parts of this course made you feel doubtful of your own innate ability?
 
-### What is a fixed mindset?
-
 ### What is something kind you have done for someone else?
-
-### Have you done mindfulness or attention training before?
-
-### Have you developed a habit of persevering?
-
