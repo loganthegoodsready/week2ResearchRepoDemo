@@ -196,11 +196,11 @@ Currently I have 15 tabs open. If I open any more than that I cant decypher what
 
 ### Are you using the canvas content? Do you find it helpful or tedious?
 
-### Which parts of the work did you find tedious?
+I have read through some of the contents on canvas. I do find it quite helpful. I tend to search for other definitions and examples on the interent aswell so I can compare them and have a better understanding of the topics. The python modules on there werent very helpful to me though. Reading about how to code is quite confusing, and I prefer the online courses that have a lot more interaction and are fun as opposed to boring, which is what I thought abouth the modules. 
 
 ### Did you hear a self critical voice in your head throughout the process of learning during this last few weeks? What did it say to you? Do you believe what it said?
 
-### What is an MVP? How would you describe it to a group of 6 year olds?
+Self doubt always finds a way of creeping in. The voice was saying "You wont get anything out of this course" and "Programming is way too hard, you wont be good enough to get a job". Math and problem solving to the degree that programming requires, I thought to be out of my wheel house because I never gravitated towards them in school.  
 
 ### What is the hardest problem you have solved so far?
 
