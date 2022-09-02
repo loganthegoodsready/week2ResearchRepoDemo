@@ -229,17 +229,17 @@ I've dabbled in meditation over the last several years. Usually I practice the m
 
 'Degree' being the key word here as I dont believe I've mastered anything yet. Two examples would be climbing a hard route almost perfectly and defeating a hard boss in a video game. It took a lot of hard work, creativity, and persistance for both things. One story/quote that always sticks with me regarding mastery and the time and energy it takes to aquire it is this one:
 
-**_“It’s you — Picasso, the great artist! Oh, you must sketch my portrait! I insist.”
+**_“It’s you — Picasso, the great artist! Oh, you must sketch my portrait! I insist.” -**
 
-**_So Picasso agreed to sketch her. After studying her for a moment, he used a single pencil stroke to create her portrait. He handed the women his work of art.
+**_So Picasso agreed to sketch her. After studying her for a moment, he used a single pencil stroke to create her portrait. He handed the women his work of art. _**
 
-**_“It’s perfect!” she gushed. “You managed to capture my essence with one stroke, in one moment. Thank you! How much do I owe you?”
+**_“It’s perfect!” she gushed. “You managed to capture my essence with one stroke, in one moment. Thank you! How much do I owe you?” _**
 
 **_“Five thousand dollars,” the artist replied.
 
-**_“B-b-but, what?” the woman sputtered. “How could you want so much money for this picture? It only took you a second to draw it!”
+**_“B-b-but, what?” the woman sputtered. “How could you want so much money for this picture? It only took you a second to draw it!” _**
 
-**_To which Picasso responded, “Madame, it took me my entire life.”
+**_To which Picasso responded, “Madame, it took me my entire life.” _**
 
 
 ### Do you consider yourself a developer yet?
