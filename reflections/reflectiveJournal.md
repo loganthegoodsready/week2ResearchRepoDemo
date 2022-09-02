@@ -43,6 +43,10 @@ GitHub is a website and cloud-based service that helps developers store and mana
 
 ### Click [Here](https://github.com/loganthegoodsready/Mangoisgreat.git) to see my attempts at the lab activities for week3/4.
 
+### What is an IDE?
+
+IDE stands for and integrated develompment environment. It provides the user interface for code development, testing and debugging. The IDE I have benn using is called Pycharm, and It's very easy to use. I may have to swith to another IDE such as Visual studio code as I plan to learn other programming languages that wont run in Pycharm. 
+
 ### What is Python?
 
 Python is a high level, object orientated programming language. It has a very simple sytax that is similar to the normal written english language, which makes it a great language for beginners to learn to program. 
@@ -115,6 +119,12 @@ Lets say you wanted to make a lemonade stand becuase you know you make the best 
 
 The list, and also the one glass of lemonade you give your parents is the MVP. All you needed was a pencil and paper, and you also had to make one glass of lemonade with ingredients that were already in the house, so it didnt cost you anything. If your parents like your idea of the lemonade stand they might give you the money to start it, and they might also give you some advice like adding two different sized cups. You can take their advice and make changes to your lemonade stand. 
 
+### What is Timeboxing? Have you heard of it before? Will you use it?
+
+"In Agile principles, timeboxing allocates a fixed and maximum unit of time to an activity, called a timebox, within which planned activity takes place. It is used by Agile principles-based project management approaches and for personal time management."
+
+Up until googling "time boxing" right now, I had not heard of it. I do tend to ponder on unimportant matters so this would be a good tool to use in my own own life to help prioritise tasks. I dont work well under pressure generally, so introducing timeboxing should be good preparation for real world work environments. 
+
 ### Spaghetti tower challenge
 
 Our task of creating teams and trying to build the tallest tower over three iterations, using raw spaghetti, tape, string and a marshmellow, was a good exercise to demonstrate why the agile model works well. Our first attemt failed, our second attempt also failed, and our third attempt was successful. During our first attempt, we made a plan together and allocated tasks, but we spent too much time on small details and were unable to make a finished tower. On our second attempt we didnt fuss over the small details and we made a finished tower but it didnt stand on its own. We found a bug at the end our second attempt that was making the taower topple over, and we were able to fix that bug and make the only free standing tower. Although we won and we had good teamwork, we still somewhat followed a more traditional approch to building the tower. A key element we were missing was an MVP. We were so focused on making the tallest people tower that we could and that which almost led to there being no tower at all. Our MVP would have been to make a free standing tower as fast as possible with minimal planning and time wasted, and from there we could have continued to make it taller with each itteration. 
@@ -124,16 +134,11 @@ Our task of creating teams and trying to build the tallest tower over three iter
 During week four and five I started to feel quite lost and confused abouth the direction of the course. Infact, I was so lost that stopped doing any study at all. I was trying to collect my thoughts in that time instead. My confusion was due to a misunderstanding about the course material and also the unorthodox teaching style that I wasn't used to. My expectation was that the class would be learning Python progressively each week during lectures, along with other things ofcourse, and that would ultimately lead to making projects with python. This confusion was due to the the older course outline I was given when I signed up for the course. After reaching out to you (Roman) regarding my concerns, The final thing you said to me was "trust the process". I've been doing so since that interaction and I've felt my confident with the direction of the course. I'm a bit behind schedule due to my 2 week break from study, but I have a rough idea of my plans. During that interaction you also sent me a link to a video about developing a growth mindset by Carol Dweck. That video made me better understand your teaching style and the course structure. You're trying to encourage a growth mindset with this course, and help students break free from the fixed mindset they might have. By choosing our own projects we are faced with challenge of aiming for a high goal, and you're encouraging us to explore that route and to not be afraid failure, and learn from it instead. I hope that if I do fail this assignment, I'm given the grade "Not yet".
 
 
-#### Promptsto use...
+# Misc Prompts 
 
 ### Did you remember to take regular breaks away from your screen during this week? How often? Did you stretch your body?
 I've been trying to make sure I take a break atleast every hour, even if Im confused about something and I know I'll likely spend my break time ruminating about my confusion. I have to make sure I take breaks so my mind stays clear and my body doesn't turn to stone. 
 
-### What is Timeboxing? Have you heard of it before? Will you use it?
-
-"In Agile principles, timeboxing allocates a fixed and maximum unit of time to an activity, called a timebox, within which planned activity takes place. It is used by Agile principles-based project management approaches and for personal time management."
-
-Up until googling "time boxing" right now, I had not heard of it. I do tend to ponder on unimportant matters so this would be a good tool to use in my own own life to help prioritise tasks. I dont work well under pressure generally, so introducing timeboxing should be good preparation for real world work environments. 
 
 ### On a a 0-5 scale, how confident are you with each of the assignments?
 
@@ -141,23 +146,26 @@ A 3/5
 
 Software development is a bit overwhelming but I know once I'm more familiar with the process of making a project I'll feel more confident.
 
+
 ### What are of you proud of up to this point in the course?
 
 Starting this course is the thing I'm most proud of so far. My last formal educational experience was in 2014 at university and that didn't pan out as I'd hoped, so signing up to this course was scary. 
+
 
 ### Do you have a personal learning strategy? If so, what parts of your learning strategy worked? What problems did you face? If you don't have a personal strategy yet, what do you think might work? Invent a describe a strategy for yourself. 
 
 Learning for me is similar to reading a book. I need to be by myself in a quiet place with no distractions. My biggest hinderance is procrastination. I'll generally delay doing something if I find it boring or if I'm confused which makes beginning the task daunting. One strategy I've used in the past which has worked, is to set very small easily attainable goals. In this instance, the goal would be to 'study every day for 15 minutes'. Small goals like this work because it's not overwhelming. 15 minutes might not sound like much but that's not the part that matters, what matters is that once you've reached the 15 min mark, you've achieved the goal and you feel a little bit accomplished and proud of yourself. This creates a positive association with the activity which is easier for building a lasting habit. Even though the goal is only 15 minutes of study, you'll find that you'll usually study for a lot longer because it's only the 'starting' that's the hard part. Setting the goal to do it every day is another good hack because if you miss a day then you have the oppertunity to study again the next day and you're less likely to make excuses to 'start fresh the following week' for example. 
 
 
-
 ### Have you developed a habit of exploring?
 
 I like to explore topics that interest me in my personal life. Admittedly, I haven't done as much exploring as I'd like to for this course. Due to the confusion and feeling a bit overwhelemed by developing, I put it off. I've stuck to learning python progressively, mainly through an app called 'sololearn' to get a better understanding of the language. I have begun to explore types of python projects through youtube videos and tutorials which is widening my perspective of what's possible. I haven't explored any other languages yet, but I'd like to start learning more front end web development specific languages like Javascript and also mark up languages like html and CSS as well as explore web design principles because I'd love to make fun and interactive websites.
 
+
 ### Have you meditated before?
 
 I've dabbled in meditation over the last several years. Usually I practice the most basic form form of meditation. Essentially choosing an anchor to focus on, and when you notice your mind wondering, gently bringing your attention back to your anchor. I notice that the more I meditate, the more I start to notice when my mind has wondered in everyday life, and I can bring my attention back to the present moment. It's also been great for recognising and observing emotions as they arise, which has allowed me to respond calmly to situations that id usually react to negatively. The areas related to this field that fascinate me the most are conciousness and free will. How does matter give rise to conciousness and do we or dont we have free will. I fall into the camp that suggest we dont have free will, but I'd still love to see these questions answered in my lifetime. AI might have a huge role to play in answering these questions, and that's another field I'd like to explore. 
+
 
 ### Is there something over which you have gained a degree of mastery before in your life? Gymnastics, Rubik's Cubes, A Video Game? What did it take?
 
@@ -180,14 +188,11 @@ I've dabbled in meditation over the last several years. Usually I practice the m
 
 As soon as I typed print(Hello, World!) and ran the program, I considered myself a programmer. I've come a little way since then and I have a long journey ahead of me. 
 
+
 ### How many tabs do you have open in your web browser right now? What is the ratio of study related tabs to distraction related tabs?
 
 Currently I have 15 tabs open. If I open any more than that I cant decypher what any of them are. My laptop is a purely for study so there are no tabs open that can distract me. 
 
-
-### What is an IDE?
-
-IDE stands for and integrated develompment environment. It provides the user interface for code development, testing and debugging. The IDE I have benn using is called Pycharm, and It's very easy to use. I may have to swith to another IDE such as Visual studio code as I plan to learn other programming languages that wont run in Pycharm. 
 
 ### Are you using the canvas content? Do you find it helpful or tedious?
 
